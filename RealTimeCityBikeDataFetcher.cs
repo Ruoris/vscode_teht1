@@ -33,7 +33,7 @@ public class RealTimeCityBikeDataFetcher : ICityBikeDataFetcher
                 if (bikes.stations[i].name == stationName)
                 {
                     bikeCount = bikes.stations[i].bikesAvailable;
-                    Console.WriteLine("there are " + bikeCount + " bikes at the station");
+                    Console.WriteLine("there are " + bikeCount + " bikes at the " + stationName+  " station");
                     return 1;
                 }
 
