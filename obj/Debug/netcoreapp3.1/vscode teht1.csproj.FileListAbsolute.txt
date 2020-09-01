@@ -1,0 +1,15 @@
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.exe
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.deps.json
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.runtimeconfig.json
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.runtimeconfig.dev.json
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.dll
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\vscode teht1.pdb
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.csprojAssemblyReference.cache
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.AssemblyInfoInputs.cache
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.AssemblyInfo.cs
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.csproj.CoreCompileInputs.cache
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.dll
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.pdb
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.genruntimeconfig.cache
+C:\Users\tonir\Documents\vscode teht1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tonir\Documents\vscode teht1\obj\Debug\netcoreapp3.1\vscode teht1.csproj.CopyComplete
